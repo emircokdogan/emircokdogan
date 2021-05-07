@@ -1,12 +1,6 @@
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
+<h1 align="center">Hi 👋, I'm Emir</h1>
+<h3 align="center">Full Stack Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emircokdogan&label=Profile%20views&color=0e75b6&style=flat" alt="emircokdogan" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emircokdogan&&count_private=true&&show_icons=true&locale=en" alt="emircokdogan" /></p>
